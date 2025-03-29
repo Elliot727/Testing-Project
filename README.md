@@ -17,7 +17,7 @@ A minimalist task manager built using SwiftUI's latest features, focusing on sim
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/yourusername/TaskManager.git](https://github.com/Elliot727/Testing-Project)
+   git clone [[https://github.com/yourusername/TaskManager.git](https://github.com/Elliot727/Testing-Project)](https://github.com/Elliot727/Testing-Project)
    ```
 2. Open the project in Xcode.
 3. Build and run the app on an iOS simulator or device.
